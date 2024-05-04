@@ -71,7 +71,7 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           repository: ./main        
-          commit_user_name: avinash # defaults to "github-actions[bot]"
+          commit_user_name: athakursc12 # defaults to "github-actions[bot]"
           commit_user_email: athakursc12@gmail.com # defaults to "41898282+github-actions[bot]@users.noreply.github.com"
           commit_message: "✅ Fetch latest Trackers 🧲 <-- ${{ env.NEPALI_TIME }} ⌚"
           #push_options: '--force'
