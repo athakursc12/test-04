@@ -23,8 +23,8 @@ udp://tracker.opentrackr.org:1337/announce
 http://tracker.files.fm:6969/announce
 udp://moonburrow.club:6969/announce
 http://ipv6.rer.lol:6969/announce
-udp://bubu.mapfactor.com:6969/announce
 udp://tracker.picotorrent.one:6969/announce
+udp://bubu.mapfactor.com:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.fnix.net:6969/announce
 https://tracker.gcrreen.xyz:443/announce
