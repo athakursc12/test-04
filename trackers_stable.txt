@@ -25,8 +25,8 @@ udp://retracker.hotplug.ru:2710/announce
 udp://tracker.gmi.gd:6969/announce
 http://bt2.archive.org:6969/announce
 udp://tracker.aruku.ovh:8081/announce
-udp://tracker.peerfect.org:6969/announce
 udp://open.ftorrent.com:443/announce
+udp://tracker.peerfect.org:6969/announce
 udp://tracker.ilibr.org:6969/announce
 udp://tracker.dler.com:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
